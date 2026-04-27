@@ -1,5 +1,11 @@
 # Glaucoma Second Opinion in India: When, Why, and What to Expect
+## Glaucoma Second Opinion in India
 
+If your eye reports are “normal” but something still feels off, you’re not alone.
+
+Many patients with early glaucoma or subtle vision problems are reassured because routine tests appear normal. But early changes are often missed without detailed evaluation.
+
+This page will help you understand when a second opinion is necessary—and what it should include.
 If you’ve been told you may have glaucoma—or are already on treatment—it’s natural to have questions.
 
 - Is the diagnosis correct?  
@@ -64,12 +70,21 @@ To make the most of your consultation:
 
 ---
 
+## Who should consider this urgently?
+
+- Family history of glaucoma  
+- Increasing eye pressure despite treatment  
+- Confusing or changing reports  
+- Symptoms that don’t match your diagnosis  
+
+---
+
 ## Related reads
 
 - [Do I Really Need Glaucoma Treatment Right Now](./do-i-really-need-glaucoma-treatment-right-now.md)  
 - [Can Glaucoma Be Cured or Reversed](./can-glaucoma-be-cured-or-reversed.md)  
 - [What Reports Should You Bring for a Glaucoma Second Opinion](./what-reports-to-bring-for-glaucoma-second-opinion.md)  
-- [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)  
+- [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 
 ---
 
