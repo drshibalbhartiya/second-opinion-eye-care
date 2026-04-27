@@ -53,7 +53,7 @@
 
 Normal reports. Persistent symptoms. Something still feels wrong.
 
-This repository explores a simple but often ignored truth:
+This repository explores real-world vision problems, glaucoma risk, early warning signs, and when to seek a second opinion in eye care.
 
 **Good vision does not always mean safe vision.**
 
