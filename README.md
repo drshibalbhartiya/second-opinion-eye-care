@@ -7,6 +7,7 @@
 - [Why Do I Need So Many Glaucoma Eye Drops](./why-do-i-need-so-many-glaucoma-eye-drops.md)
 - [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)
 - [How Fast Does Glaucoma Progress](./how-fast-does-glaucoma-progress.md)
+
 Normal reports. Persistent symptoms. Something still feels wrong.
 
 This repository explores a simple but often ignored truth:
