@@ -45,7 +45,7 @@
 
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 
-  ### 🧠 Beyond the Clinic (Understanding the System)
+### 🧠 Beyond the Clinic (Understanding the System)
 
 - [Red Flags in Eye Symptoms You Should Not Ignore](./red-flags-in-eye-symptoms-you-should-not-ignore.md)
 - [Why Patients Often Feel Unheard in Eye Care](./why-patients-feel-unheard-in-eye-care.md)
