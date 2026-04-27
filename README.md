@@ -1,5 +1,6 @@
 # Vision Beyond the Chart
-
+## Articles
+- [Why Good Vision Is Not Always Safe Vision](./why-good-vision-is-not-safe-vision.md)
 Normal reports. Persistent symptoms. Something still feels wrong.
 
 This repository explores a simple but often ignored truth:
