@@ -77,6 +77,32 @@ To make the most of your consultation:
 
 **In glaucoma, the cost of delay is often invisible—but permanent.  
 Clarity early can change outcomes.**
+---
+
+## Frequently Asked Questions (FAQs)
+
+### Can glaucoma be diagnosed in a single visit?
+Not always. Glaucoma is often diagnosed using a combination of tests and may require follow-up to confirm progression.
+
+---
+
+### If my eye pressure is normal, can I still have glaucoma?
+Yes. Some patients develop glaucoma even with normal eye pressure (normal-tension glaucoma).
+
+---
+
+### Do I need lifelong treatment for glaucoma?
+In most cases, yes. Glaucoma is a chronic condition that requires long-term management.
+
+---
+
+### Can glaucoma be cured?
+No, but it can be controlled effectively if detected early.
+
+---
+
+### When should I seek a second opinion?
+If you feel uncertain about your diagnosis, treatment, or if your symptoms don’t match your reports.
 
 ---
 
