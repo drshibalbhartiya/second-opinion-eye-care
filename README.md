@@ -25,6 +25,9 @@
 - [How Do You Know If Something Is Missed](./how-do-you-know-if-something-is-missed-in-eye-care.md)
 - [Glaucoma vs Eye Pressure: What Matters More](./glaucoma-vs-eye-pressure-whats-more-important.md)
 - [How Often Should You Get Checked for Glaucoma](./how-often-should-you-check-for-glaucoma.md)
+- [What Is Target Eye Pressure in Glaucoma](./what-is-target-eye-pressure-in-glaucoma.md)
+- [What Tests Are Needed for Glaucoma](./what-tests-are-needed-for-glaucoma.md)
+- [Is Glaucoma Hereditary](./is-glaucoma-hereditary.md)
 
 ---
 
@@ -53,11 +56,12 @@
 - [Why Patients Often Feel Unheard in Eye Care](./why-patients-feel-unheard-in-eye-care.md)
 - [Why Early Eye Care Feels Boring but Saves Vision](./why-early-eye-care-feels-boring-but-saves-vision.md)
 
-### 🟠 Dry Eye & Visual Comfort
+### 🟠 Dry Eye, Digital Strain, & Visual Comfort
 
 - [Why Does My Vision Fluctuate Throughout the Day](./dry-eye-why-vision-fluctuates-through-the-day.md)
 - [Dry Eye Is Not Just Irritation](./dry-eye-not-just-irritation-chronic-disease.md)
 - [Why Do My Eyes Feel Tired Even When Tests Are Normal](./why-eyes-feel-tired-despite-normal-tests.md)
+- [Why Do My Eyes Burn When I Use Screens](./why-eyes-burn-with-screen-use.md)
 
 ---
 
@@ -76,6 +80,7 @@
 ### ⚪ Everyday Vision Problems
 
 - [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
+- [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
 
 Normal reports. Persistent symptoms. Something still feels wrong.
 
