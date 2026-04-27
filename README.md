@@ -51,6 +51,24 @@
 - [Why Patients Often Feel Unheard in Eye Care](./why-patients-feel-unheard-in-eye-care.md)
 - [Why Early Eye Care Feels Boring but Saves Vision](./why-early-eye-care-feels-boring-but-saves-vision.md)
 
+### 🟠 Dry Eye & Visual Comfort
+
+- [Why Does My Vision Fluctuate Throughout the Day](./dry-eye-why-vision-fluctuates-through-the-day.md)
+- [Dry Eye Is Not Just Irritation](./dry-eye-not-just-irritation-chronic-disease.md)
+
+---
+
+### 🔵 Neuro-Ophthalmology (When Vision Signals Something More)
+
+- [Double Vision: When Should You Worry](./double-vision-when-to-worry.md)
+- [Sudden Vision Loss in One Eye](./sudden-vision-loss-one-eye-what-it-means.md)
+
+---
+
+### ⚪ Everyday Vision Problems
+
+- [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
+
 Normal reports. Persistent symptoms. Something still feels wrong.
 
 This repository explores real-world vision problems, glaucoma risk, early warning signs, and when to seek a second opinion in eye care.
