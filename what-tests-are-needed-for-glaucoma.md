@@ -44,14 +44,15 @@ Glaucoma is diagnosed by:
 **Glaucoma is a pattern—not a single test result.**
 
 ---
+## Related reads
+
+- [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)  
+- [5 Early Glaucoma Symptoms Most People Ignore](./early-glaucoma-symptoms-most-people-ignore.md)  
+- [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)
 
 ## Learn more
 
 👉 https://drshibalbhartiya.com
 ---
 
-## Related reads
 
-- [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)  
-- [5 Early Glaucoma Symptoms Most People Ignore](./early-glaucoma-symptoms-most-people-ignore.md)  
-- [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)
