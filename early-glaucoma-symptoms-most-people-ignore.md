@@ -121,3 +121,24 @@ Consider a detailed evaluation if:
 
 For detailed glaucoma evaluation and second opinion:  
 👉 https://drshibalbhartiya.com
+---
+
+## FAQs
+
+### Can glaucoma be detected early?
+Yes, but it often requires specific tests beyond routine eye exams.
+
+---
+
+### If my vision is normal, can I still have glaucoma?
+Yes. Early glaucoma does not affect central vision.
+
+---
+
+### Do I need treatment if I feel fine?
+Sometimes yes, because treatment prevents future damage.
+
+---
+
+### Is glaucoma always due to high pressure?
+No. Some patients develop glaucoma even with normal pressure.
