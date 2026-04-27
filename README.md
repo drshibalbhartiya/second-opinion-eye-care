@@ -7,6 +7,12 @@
 - [Why Do I Need So Many Glaucoma Eye Drops](./why-do-i-need-so-many-glaucoma-eye-drops.md)
 - [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)
 - [How Fast Does Glaucoma Progress](./how-fast-does-glaucoma-progress.md)
+- [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)
+- [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
+- [5 Mistakes Patients Make in Glaucoma Care](./5-mistakes-patients-make-in-glaucoma-care.md)
+- [Can You Have Glaucoma With Normal Eye Pressure](./can-you-have-glaucoma-with-normal-eye-pressure.md)
+- [Is Glaucoma Treatment for Life](./is-glaucoma-treatment-for-life.md)
+- [Why Does My Eye Pressure Keep Changing](./why-does-my-eye-pressure-keep-changing.md)
 
 Normal reports. Persistent symptoms. Something still feels wrong.
 
