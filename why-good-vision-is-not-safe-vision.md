@@ -92,6 +92,13 @@ A second opinion helps when:
 
 And the earlier we recognise this gap,  
 the more we can prevent irreversible loss.
+---
+
+## Related reads
+
+- [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)  
+- [5 Early Glaucoma Symptoms Most People Ignore](./early-glaucoma-symptoms-most-people-ignore.md)  
+- [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)
 
 ---
 
