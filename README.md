@@ -1,9 +1,10 @@
 # Vision Beyond the Chart
 ## Articles
-## Articles
+
 
 ### 🔴 Start Here 
 
+- [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)
 - [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)
 - [Why Good Vision Is Not Always Safe Vision](./why-good-vision-is-not-safe-vision.md)
 - [My Vision Is Fine But Something Feels Off](./my-vision-is-fine-but-something-feels-off.md)
