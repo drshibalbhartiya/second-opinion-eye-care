@@ -1,18 +1,42 @@
 # Vision Beyond the Chart
 ## Articles
+## Articles
+
+### 🔴 Start Here 
+
+- [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)
 - [Why Good Vision Is Not Always Safe Vision](./why-good-vision-is-not-safe-vision.md)
 - [My Vision Is Fine But Something Feels Off](./my-vision-is-fine-but-something-feels-off.md)
-- [How Do You Know If Something Is Missed](./how-do-you-know-if-something-is-missed-in-eye-care.md)
+
+---
+
+### 🟡 Early Signs & Missed Diagnosis
+
 - [5 Early Glaucoma Symptoms Most People Ignore](./early-glaucoma-symptoms-most-people-ignore.md)
-- [Why Do I Need So Many Glaucoma Eye Drops](./why-do-i-need-so-many-glaucoma-eye-drops.md)
 - [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)
-- [How Fast Does Glaucoma Progress](./how-fast-does-glaucoma-progress.md)
-- [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)
-- [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
-- [5 Mistakes Patients Make in Glaucoma Care](./5-mistakes-patients-make-in-glaucoma-care.md)
 - [Can You Have Glaucoma With Normal Eye Pressure](./can-you-have-glaucoma-with-normal-eye-pressure.md)
+- [How Do You Know If Something Is Missed](./how-do-you-know-if-something-is-missed-in-eye-care.md)
+
+---
+
+### 🔵 Treatment & Patient Concerns
+
+- [Why Do I Need So Many Glaucoma Eye Drops](./why-do-i-need-so-many-glaucoma-eye-drops.md)
 - [Is Glaucoma Treatment for Life](./is-glaucoma-treatment-for-life.md)
 - [Why Does My Eye Pressure Keep Changing](./why-does-my-eye-pressure-keep-changing.md)
+
+---
+
+### 🟣 Disease Understanding
+
+- [How Fast Does Glaucoma Progress](./how-fast-does-glaucoma-progress.md)
+- [5 Mistakes Patients Make in Glaucoma Care](./5-mistakes-patients-make-in-glaucoma-care.md)
+
+---
+
+### ⚫ Clinical Insight (Doctor’s Perspective)
+
+- [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 
 Normal reports. Persistent symptoms. Something still feels wrong.
 
