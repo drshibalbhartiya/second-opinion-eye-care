@@ -44,6 +44,12 @@
 
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 
+  ### 🧠 Beyond the Clinic (Understanding the System)
+
+- [Red Flags in Eye Symptoms You Should Not Ignore](./red-flags-in-eye-symptoms-you-should-not-ignore.md)
+- [Why Patients Often Feel Unheard in Eye Care](./why-patients-feel-unheard-in-eye-care.md)
+- [Why Early Eye Care Feels Boring but Saves Vision](./why-early-eye-care-feels-boring-but-saves-vision.md)
+
 Normal reports. Persistent symptoms. Something still feels wrong.
 
 This repository explores a simple but often ignored truth:
