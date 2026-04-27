@@ -11,6 +11,10 @@
 - [Can Glaucoma Be Cured or Reversed](./can-glaucoma-be-cured-or-reversed.md)
 
 ---
+### 🟢 Before You Visit
+
+- [How to Prepare for a Glaucoma Consultation](./how-to-prepare-for-glaucoma-consultation.md)
+- [What Reports Should You Bring for a Glaucoma Second Opinion](./what-reports-to-bring-for-glaucoma-second-opinion.md)
 
 ### 🟡 Early Signs & Missed Diagnosis
 
