@@ -1,6 +1,8 @@
 # Vision Beyond the Chart
 ## Articles
 - [Why Good Vision Is Not Always Safe Vision](./why-good-vision-is-not-safe-vision.md)
+- - [My Vision Is Fine But Something Feels Off](./my-vision-is-fine-but-something-feels-off.md)
+- [How Do You Know If Something Is Missed](./how-do-you-know-if-something-is-missed-in-eye-care.md)
 Normal reports. Persistent symptoms. Something still feels wrong.
 
 This repository explores a simple but often ignored truth:
