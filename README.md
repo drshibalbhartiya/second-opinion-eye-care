@@ -98,9 +98,12 @@
 - [Optic Neuritis: Early Signs](./optic-neuritis-early-signs.md)
 
 ---
-### ⚪ Refractive / LASIK
+### ⚪ Refractive / LASIK (Expectations & Suitability)
 
 - [Why Vision After LASIK May Not Feel Perfect](./why-vision-after-lasik-may-not-feel-perfect.md)
+- [Am I a Good Candidate for LASIK](./am-i-a-good-candidate-for-lasik.md)
+- [What LASIK Can and Cannot Fix](./what-lasik-can-and-cannot-fix.md)
+- [Why Vision May Feel Different After LASIK](./why-vision-may-feel-different-after-lasik.md)
 
   ### ⚪ Cataract (Decision & Expectations)
 
