@@ -101,6 +101,12 @@
 ### ⚪ Refractive / LASIK
 
 - [Why Vision After LASIK May Not Feel Perfect](./why-vision-after-lasik-may-not-feel-perfect.md)
+
+  ### ⚪ Cataract (Decision & Expectations)
+
+- [When Do You Need Cataract Surgery](./when-do-you-need-cataract-surgery.md)
+- [Cataract Surgery: What to Expect](./cataract-surgery-what-to-expect.md)
+- [Why Vision Is Not Perfect After Cataract Surgery](./why-vision-is-not-perfect-after-cataract-surgery.md)
   
 
 ### ⚪ Everyday Vision Problems
