@@ -47,10 +47,15 @@
 
 ---
 
-### 🟣 Glaucoma: Disease Understanding
+### 🟣 Glaucoma: Disease Understanding, Doubt, Monitoring & Decision Clarity
 
 - [How Fast Does Glaucoma Progress](./how-fast-does-glaucoma-progress.md)
 - [5 Mistakes Patients Make in Glaucoma Care](./5-mistakes-patients-make-in-glaucoma-care.md)
+- [Is My Glaucoma Being Monitored or Just Delayed](./is-my-glaucoma-being-monitored-or-just-delayed.md)
+- [Are My Glaucoma Eye Drops Actually Working](./are-my-glaucoma-eye-drops-actually-working.md)
+- [Why Does My Glaucoma Treatment Keep Changing](./why-does-my-glaucoma-treatment-keep-changing.md)
+- [How Do I Know If I Need a Glaucoma Second Opinion](./how-do-i-know-if-i-need-a-glaucoma-second-opinion.md)
+- [Why Do I Feel Uncertain About My Eye Diagnosis](./why-do-i-feel-uncertain-about-my-eye-diagnosis.md)
 
 ---
 
