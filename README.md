@@ -86,6 +86,11 @@
 - [Double Vision: When Should You Worry](./double-vision-when-to-worry.md)
 - [Sudden Vision Loss in One Eye](./sudden-vision-loss-one-eye-what-it-means.md)
 - [When Are Headaches Related to Eye Problems](./when-headache-and-eye-problems-are-linked.md)
+- [Transient Vision Loss: When Should You Worry](./transient-vision-loss-when-to-worry.md)
+- [Unequal Pupils: Should You Be Concerned](./unequal-pupils-is-it-serious.md)
+- [Drooping Eyelid: What It Means](./drooping-eyelid-ptosis-what-it-means.md)
+- [Visual Field Loss: Why Patients Miss It](./visual-field-loss-what-patients-miss.md)
+- [Optic Neuritis: Early Signs](./optic-neuritis-early-signs.md)
 
 ---
 ### ⚪ Refractive / LASIK
