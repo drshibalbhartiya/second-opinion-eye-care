@@ -43,3 +43,10 @@ Often:
 ## Learn more
 
 👉 https://drshibalbhartiya.com
+
+---
+
+## Related reads
+
+- [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)  
+- [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)  
