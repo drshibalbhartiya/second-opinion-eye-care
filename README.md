@@ -71,6 +71,14 @@
 - [Why Do My Eyes Feel Tired Even When Tests Are Normal](./why-eyes-feel-tired-despite-normal-tests.md)
 - [Why Do My Eyes Burn When I Use Screens](./why-eyes-burn-with-screen-use.md)
 
+### 🟠 Dry Eye (Symptoms & Daily Experience)
+
+- [Dry Eye vs Allergy: How to Tell the Difference](./dry-eye-vs-allergy-how-to-tell-the-difference.md)
+- [Why Do My Eyes Water If They Are Dry](./why-do-my-eyes-water-if-they-are-dry.md)
+- [Why Does My Vision Improve When I Blink](./why-does-my-vision-improve-when-i-blink.md)
+- [Why Do My Eyes Feel Heavy or Tired](./why-do-my-eyes-feel-heavy-or-tired.md)
+- [How Do You Know If Dry Eye Treatment Is Working](./how-do-you-know-if-dry-eye-treatment-is-working.md)
+
 ---
 
 ### 🔵 Neuro-Ophthalmology (When Vision Signals Something More)
