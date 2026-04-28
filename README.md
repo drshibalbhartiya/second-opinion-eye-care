@@ -17,7 +17,7 @@
 - [How to Prepare for a Glaucoma Consultation](./how-to-prepare-for-glaucoma-consultation.md)
 - [What Reports Should You Bring for a Glaucoma Second Opinion](./what-reports-to-bring-for-glaucoma-second-opinion.md)
 
-### 🟡 Early Signs & Missed Diagnosis
+### 🟡 Glaucoma Early Signs & Missed Diagnosis
 
 - [5 Early Glaucoma Symptoms Most People Ignore](./early-glaucoma-symptoms-most-people-ignore.md)
 - [Can Glaucoma Be Missed in Routine Eye Checkup](./can-glaucoma-be-missed-in-routine-eye-checkup.md)
@@ -31,15 +31,23 @@
 
 ---
 
-### 🔵 Treatment & Patient Concerns
+### 🔵 Glaucoma Treatment & Patient Concerns
 
 - [Why Do I Need So Many Glaucoma Eye Drops](./why-do-i-need-so-many-glaucoma-eye-drops.md)
 - [Is Glaucoma Treatment for Life](./is-glaucoma-treatment-for-life.md)
 - [Why Does My Eye Pressure Keep Changing](./why-does-my-eye-pressure-keep-changing.md)
 
+### 🔴 Glaucoma Surgery & Escalation Decisions
+
+- [When Is Glaucoma Surgery Needed](./when-is-glaucoma-surgery-needed.md)
+- [Laser vs Drops vs Surgery in Glaucoma](./laser-vs-drops-vs-surgery-in-glaucoma.md)
+- [What Happens If Glaucoma Is Left Untreated](./what-happens-if-glaucoma-is-left-untreated.md)
+- [How Do You Know If Glaucoma Is Worsening](./how-do-you-know-if-glaucoma-is-worsening.md)
+- [Glaucoma Surgery: What Should You Expect](./glaucoma-surgery-what-to-expect.md)
+
 ---
 
-### 🟣 Disease Understanding
+### 🟣 Glaucoma: Disease Understanding
 
 - [How Fast Does Glaucoma Progress](./how-fast-does-glaucoma-progress.md)
 - [5 Mistakes Patients Make in Glaucoma Care](./5-mistakes-patients-make-in-glaucoma-care.md)
