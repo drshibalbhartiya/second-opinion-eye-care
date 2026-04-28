@@ -97,6 +97,12 @@
 - [Visual Field Loss: Why Patients Miss It](./visual-field-loss-what-patients-miss.md)
 - [Optic Neuritis: Early Signs](./optic-neuritis-early-signs.md)
 
+### 🔵 Neuro-Ophthalmology (Pattern Recognition & Combined Symptoms)
+
+- [Double Vision: One Eye or Both](./double-vision-one-eye-or-both-what-it-means.md)
+- [Eye Pain with Normal Exam](./eye-pain-with-normal-eye-exam-what-it-means.md)
+- [Drooping Eyelid with Double Vision](./when-drooping-eyelid-and-double-vision-occur-together.md)
+
 ---
 ### ⚪ Refractive / LASIK (Expectations & Suitability)
 
@@ -110,10 +116,12 @@
 - [When Do You Need Cataract Surgery](./when-do-you-need-cataract-surgery.md)
 - [Cataract Surgery: What to Expect](./cataract-surgery-what-to-expect.md)
 - [Why Vision Is Not Perfect After Cataract Surgery](./why-vision-is-not-perfect-after-cataract-surgery.md)
-  
 
-### ⚪ Everyday Vision Problems
+### ⚪ General Eye Concerns (Common but Confusing Symptoms)
 
+- [Why Does My Glasses Number Keep Changing](./why-does-my-glasses-number-keep-changing.md)
+- [Why Do I See Glare and Halos](./why-do-i-see-glare-and-halos-around-lights.md)
+- [Why Are My Eyes Sensitive to Light](./why-do-my-eyes-feel-sensitive-to-light.md)
 - [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
 - [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
 
