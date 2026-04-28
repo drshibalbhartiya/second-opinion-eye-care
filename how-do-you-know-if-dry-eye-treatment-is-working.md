@@ -50,3 +50,11 @@ Treatment works:
 ## Learn more
 
 👉 https://drshibalbhartiya.com
+
+---
+
+## Related reads
+
+- [Why Does My Vision Improve When I Blink](./why-does-my-vision-improve-when-i-blink.md)  
+- [Dry Eye vs Allergy: How to Tell the Difference](./dry-eye-vs-allergy-how-to-tell-the-difference.md)  
+- [My Vision Is Fine But Something Feels Off](./my-vision-is-fine-but-something-feels-off.md)
