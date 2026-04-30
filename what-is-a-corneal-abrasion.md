@@ -62,3 +62,12 @@ The size of the scratch matters less than:
 ## Learn more
 
 👉 https://drshibalbhartiya.com
+
+---
+
+## Related reads
+
+- [Can a Small Eye Scratch Heal on Its Own](./can-small-eye-scratch-heal-on-its-own.md)  
+- [Light Sensitivity and Watering: What Does It Mean](./light-sensitivity-and-watering-what-it-means.md)  
+- [Why Does My Eye Still Hurt After a “Normal” Checkup](./why-eye-still-hurts-after-normal-checkup.md)  
+- [Why Do My Eyes Feel Tired Even When Tests Are Normal](./why-eyes-feel-tired-despite-normal-tests.md)
