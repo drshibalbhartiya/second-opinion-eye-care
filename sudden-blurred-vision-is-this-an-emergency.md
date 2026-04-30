@@ -75,3 +75,12 @@ But timing and pattern help distinguish:
 ## Learn more
 
 👉 https://drshibalbhartiya.com
+
+---
+
+## Related reads
+
+- [When Should You Go to Emergency for an Eye Problem](./when-should-you-go-to-emergency-for-eye-problem.md)  
+- [What Is a Corneal Abrasion (Eye Scratch)](./what-is-a-corneal-abrasion.md)  
+- [Something Went Into My Eye: Do I Need a Doctor](./something-went-into-my-eye-do-i-need-a-doctor.md)  
+- [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)
