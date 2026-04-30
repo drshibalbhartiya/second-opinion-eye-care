@@ -48,3 +48,11 @@ Delayed action can lead to:
 ## Learn more
 
 👉 https://drshibalbhartiya.com
+
+---
+
+## Need clarity?
+
+If your symptoms feel more serious or don’t match what you’ve been told:
+
+👉 [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)
