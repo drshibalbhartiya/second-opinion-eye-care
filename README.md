@@ -1,6 +1,27 @@
 # Vision Beyond the Chart
-## Articles
+A structured patient-focused ophthalmology knowledge repository by Dr Shibal Bhartiya.
 
+This repository brings together articles on:
+- glaucoma
+- dry eye
+- cataract
+- neuro-ophthalmology
+- emergency eye symptoms
+- second opinions and decision-making
+
+The goal is simple:
+help patients understand symptoms, reduce uncertainty, and make clearer long-term decisions about eye health.
+
+Most serious eye disease is not missed because it is invisible. It is missed because early change is often subtle, compensated for, or normalised until too late.
+
+---
+
+## 🧠 Academic & Clinical Work
+
+- [Selected Work in Glaucoma](./selected-work-glaucoma.md)
+
+---
+## Articles
 
 ### 🔴 Start Here 
 
