@@ -221,8 +221,6 @@ This page brings together selected peer-reviewed academic work in glaucoma, incl
 ### Premium IOLs in Glaucoma  
 **PMID:** 26997783
 
-### How to Choose a Mentor?  
-**PMID:** 26997796
 
 ---
 
