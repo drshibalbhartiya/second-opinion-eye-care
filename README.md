@@ -28,7 +28,6 @@
 - [What Is Target Eye Pressure in Glaucoma](./what-is-target-eye-pressure-in-glaucoma.md)
 - [What Tests Are Needed for Glaucoma](./what-tests-are-needed-for-glaucoma.md)
 - [Is Glaucoma Hereditary](./is-glaucoma-hereditary.md)
-
 ---
 
 ### 🔵 Glaucoma Treatment & Patient Concerns
@@ -36,6 +35,7 @@
 - [Why Do I Need So Many Glaucoma Eye Drops](./why-do-i-need-so-many-glaucoma-eye-drops.md)
 - [Is Glaucoma Treatment for Life](./is-glaucoma-treatment-for-life.md)
 - [Why Does My Eye Pressure Keep Changing](./why-does-my-eye-pressure-keep-changing.md)
+
 
 ### 🔴 Glaucoma Surgery & Escalation Decisions
 
@@ -56,6 +56,7 @@
 - [Why Does My Glaucoma Treatment Keep Changing](./why-does-my-glaucoma-treatment-keep-changing.md)
 - [How Do I Know If I Need a Glaucoma Second Opinion](./how-do-i-know-if-i-need-a-glaucoma-second-opinion.md)
 - [Why Do I Feel Uncertain About My Eye Diagnosis](./why-do-i-feel-uncertain-about-my-eye-diagnosis.md)
+- [Why Does My Glaucoma Keep “Changing” at Every Visit?](why-does-my-glaucoma-keep-changing-at-every-visit.md)
 
 ---
 
@@ -153,6 +154,14 @@
 - [Why Does My Glasses Number Keep Changing](./why-does-my-glasses-number-keep-changing.md)
 - [Why Do I See Glare and Halos Around Lights](./why-do-i-see-glare-and-halos-around-lights.md)
 - [Why Do My Eyes Feel Sensitive to Light](./why-do-my-eyes-feel-sensitive-to-light.md)
+
+## ⚪ Women’s Eye Health
+- [Why Do Women Ignore Eye Symptoms for So Long?](why-do-women-ignore-eye-symptoms-for-so-long.md)
+
+
+## 🔵 Pediatric & Lazy Eye
+
+- [Is It Ever Too Late to Treat Lazy Eye?](is-it-ever-too-late-to-treat-lazy-eye.md)
 
 Normal reports. Persistent symptoms. Something still feels wrong.
 
