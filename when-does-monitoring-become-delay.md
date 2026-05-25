@@ -19,3 +19,11 @@ Monitoring should reduce uncertainty.
 Not transfer responsibility to time.
 
 A recurring clinical challenge is identifying the point where observation stops protecting patients and starts protecting comfort.
+
+## Learn more
+👉 https://drshibalbhartiya.com
+
+## Read more
+- Why Do I See Well in Clinic But Struggle in Real Life?
+- When Should an Eye Problem Worry You?
+- What Happens If we Do Nothing For 10 Years
