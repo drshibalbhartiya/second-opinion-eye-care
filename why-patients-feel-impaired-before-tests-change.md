@@ -23,3 +23,11 @@ Across glaucoma and related conditions, structural and functional adaptation may
 The challenge is not simply detecting disease.
 
 It is recognising when patients are noticing something before our systems do.
+
+## Learn more
+👉 https://drshibalbhartiya.com
+
+## Read more
+- Why Do I See Well in Clinic But Struggle in Real Life?
+- When Should an Eye Problem Worry You?
+- What Happens If we Do Nothing For 10 Years
