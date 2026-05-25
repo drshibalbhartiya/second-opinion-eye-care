@@ -81,7 +81,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 ---
 
-### ⚫ Clinical Insight (Doctor’s Perspective)
+### ⚫ Clinical Insight (Questions That Shape My Practice)
 
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 - [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
