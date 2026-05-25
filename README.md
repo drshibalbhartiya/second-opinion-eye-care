@@ -84,6 +84,10 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 ### ⚫ Clinical Insight (Doctor’s Perspective)
 
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
+- [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
+- [When Does Monitoring Become Delay?](./when-does-monitoring-become-delay.md)
+- [What Does Continuity Protect?](./what-does-continuity-protect.md)
+- [What Happens If We Do Nothing For 10 Years?](./what-happens-if-we-do-nothing-for-10-years.md)
 
 ### 🧠 Beyond the Clinic (Understanding the System)
 
