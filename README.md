@@ -239,3 +239,6 @@ Learn more:
 ## Core idea
 
 **Seeing well is not the same as being safe.**
+
+Topics:
+glaucoma · ophthalmology · neurodegeneration · risk-stratification · continuity-of-care
