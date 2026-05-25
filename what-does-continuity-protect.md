@@ -21,3 +21,11 @@ The question is not simply:
 But:
 
 “Who remembers who this patient was two years ago?”
+
+## Learn more
+👉 https://drshibalbhartiya.com
+
+## Read more
+- Why Do I See Well in Clinic But Struggle in Real Life?
+- When Should an Eye Problem Worry You?
+- What Happens If we Do Nothing For 10 Years
