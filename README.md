@@ -246,3 +246,51 @@ Learn more:
 
 Topics:
 glaucoma · ophthalmology · neurodegeneration · risk-stratification · continuity-of-care
+
+## Research Interests
+
+### Glaucoma & Neuro-Ophthalmology
+- Glaucoma as a neurodegenerative disease
+- Early detection of glaucoma
+- Functional compensation in chronic eye disease
+- Structure–function relationships
+- Risk stratification in glaucoma care
+- Longitudinal disease monitoring
+- Neuro-ophthalmology and optic nerve disorders
+
+### Clinical Decision-Making & Second Opinions
+- Diagnostic uncertainty
+- Missed and delayed diagnosis
+- Second-opinion systems in ophthalmology
+- Continuity of care
+- Long-term outcome protection
+- Risk governance in healthcare
+
+### Patient Experience & Communication
+- Real-world visual disability
+- Vision-related quality of life
+- Symptom-report mismatch
+- Shared decision-making
+- Health literacy in eye care
+
+### Community Ophthalmology & Public Health
+- School eye health programmes
+- Vision screening in underserved populations
+- Community-based glaucoma awareness
+- Early detection models in low-resource settings
+- Preventable visual impairment
+- Access and equity in eye care
+- Public–private partnerships in eye health
+- CSR-supported vision programmes
+- Population eye health
+- Community outreach and health education
+
+### Digital Health & Artificial Intelligence
+- AI-assisted glaucoma care
+- Clinical decision support systems
+- Human judgement versus protocol-driven care
+- Digital patient education
+- Continuity of care in the AI era
+
+**Current Areas of Focus:**  
+Glaucoma • Neuro-Ophthalmology • Community Ophthalmology • Vision Screening • Second Opinions • Risk Stratification • Continuity of Care • AI in Eye Care
