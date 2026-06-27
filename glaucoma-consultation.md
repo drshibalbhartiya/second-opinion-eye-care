@@ -1,13 +1,13 @@
+# What Actually Happens During a Glaucoma Consultation
+
+*A clinician's approach to diagnosing and managing glaucoma.*
+
+**Author:** Dr Shibal Bhartiya
+
 ---
-author: Dr Shibal Bhartiya
-description: A clinician's approach to diagnosing and managing glaucoma.
-title: What Actually Happens During a Glaucoma Consultation
-What Actually Happens During a Glaucoma Consultation
-A clinician's approach to diagnosing and managing glaucoma
-Author: Dr Shibal Bhartiya  
-Glaucoma & Neuro-Ophthalmology Specialist, Gurugram, India
----
-Overview
+
+## Overview
+
 Most people imagine a glaucoma consultation as a quick pressure check
 followed by a prescription.
 That is not how modern glaucoma care works.
