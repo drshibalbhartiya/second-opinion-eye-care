@@ -123,6 +123,9 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Drooping Eyelid: What It Means](./drooping-eyelid-ptosis-what-it-means.md)
 - [Visual Field Loss: Why Patients Miss It](./visual-field-loss-what-patients-miss.md)
 - [Optic Neuritis: Early Signs](./optic-neuritis-early-signs.md)
+- [Double Vision: One Eye or Both—What It Means](./double-vision-one-eye-or-both-what-it-means.md)
+- [Eye Pain with a Normal Eye Exam: What It Means](./eye-pain-with-normal-eye-exam-what-it-means.md)
+- [Drooping Eyelid with Double Vision: When It Matters](./when-drooping-eyelid-and-double-vision-occur-together.md)
 
 ### 🔵 Neuro-Ophthalmology (Pattern Recognition & Combined Symptoms)
 
@@ -152,6 +155,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
 - [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
 
+
 ## 🔴 Eye Injury & Emergency Symptoms (Act Early, Stay Calm)
 
 - [Sudden Eye Pain: What Should You Do](./sudden-eye-pain-what-should-you-do.md)
@@ -167,19 +171,6 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 ---
 
-## 🔵 Neuro-Ophthalmology (When Vision Signals Something More)
-
-- [Double Vision: One Eye or Both—What It Means](./double-vision-one-eye-or-both-what-it-means.md)
-- [Eye Pain with a Normal Eye Exam: What It Means](./eye-pain-with-normal-eye-exam-what-it-means.md)
-- [Drooping Eyelid with Double Vision: When It Matters](./when-drooping-eyelid-and-double-vision-occur-together.md)
-
----
-
-## ⚪ General Eye Concerns (Common but Often Confusing)
-
-- [Why Does My Glasses Number Keep Changing](./why-does-my-glasses-number-keep-changing.md)
-- [Why Do I See Glare and Halos Around Lights](./why-do-i-see-glare-and-halos-around-lights.md)
-- [Why Do My Eyes Feel Sensitive to Light](./why-do-my-eyes-feel-sensitive-to-light.md)
 
 ## ⚪ Women’s Eye Health
 - [Why Do Women Ignore Eye Symptoms for So Long?](why-do-women-ignore-eye-symptoms-for-so-long.md)
