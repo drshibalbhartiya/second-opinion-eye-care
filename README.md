@@ -37,7 +37,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 - [How to Prepare for a Glaucoma Consultation](./how-to-prepare-for-glaucoma-consultation.md)
 - [What Reports Should You Bring for a Glaucoma Second Opinion](./what-reports-to-bring-for-glaucoma-second-opinion.md)
-- [Glaucoma Consultation] (glaucoma-consultation.md)
+- [What Actually Happens During a Glaucoma Consultation](glaucoma-consultation.md)
 
 ### 🟡 Glaucoma Early Signs & Missed Diagnosis
 
