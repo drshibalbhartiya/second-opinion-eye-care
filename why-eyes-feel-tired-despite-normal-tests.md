@@ -39,6 +39,7 @@ They may not capture:
 **Comfort and clarity are not the same thing.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
