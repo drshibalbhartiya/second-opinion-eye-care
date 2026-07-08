@@ -42,6 +42,7 @@ Even when vision is “normal”:
 **Eye fatigue is often a surface problem—not a vision problem.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
