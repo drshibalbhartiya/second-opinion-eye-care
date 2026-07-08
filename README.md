@@ -174,6 +174,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
 - [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
 - [Nutrition for Healthy eyes](nutrition-for-healthy-eyes.md)
+- [How to Put Eyedrops In correctly](how-to-put-eye-drops-in-correctly.md)
 
 
 ## 🔴 Eye Injury & Emergency Symptoms (Act Early, Stay Calm)
