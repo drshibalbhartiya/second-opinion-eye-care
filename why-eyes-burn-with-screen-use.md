@@ -42,6 +42,7 @@ Because:
 **Screen strain is often a tear film problem—not just overuse.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
