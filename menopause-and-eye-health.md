@@ -410,6 +410,11 @@ Regular comprehensive eye examinations become increasingly important with age.
 - Early treatment improves comfort and protects long-term vision.
 
 ---
+## Related Articles
+
+If you found this guide helpful, you may also be interested in these evidence-based resources on women's eye health:
+
+- [Hormone Replacement Therapy (HRT) and Eye Health](hormone-replacement-therapy-and-eye-health.md)
 
 *Dr Shibal Bhartiya*
 
