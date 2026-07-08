@@ -46,6 +46,7 @@ Treatment works:
 **Dry eye improvement is gradual—not instant.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
