@@ -192,7 +192,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 
 ## ⚪ Women’s Eye Health
-- [Why Do Women Ignore Eye Symptoms for So Long?](why-do-women-ignore-eye-symptoms-for-so-long.md)
+- [Why Do Women Ignore Eye Symptoms for So Long?](why-do-women-ignore-symptoms-for-so-long)
 - [PCOS and Eye Health](pcos-and-eye-health.md)
 - [Pregnancy and Vision](pregnancy-and-vision.md)
 - [Understanding Menopause and Eye Health](menopause-and-eye-health.md)
