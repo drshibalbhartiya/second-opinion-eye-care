@@ -166,7 +166,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Cataract Surgery: What to Expect](./cataract-surgery-what-to-expect.md)
 - [Why Vision Is Not Perfect After Cataract Surgery](./why-vision-is-not-perfect-after-cataract-surgery.md)
 
-### ⚪ General Eye Concerns (Common but Confusing Symptoms)
+### ⚪ General Eye Concerns (Common but Confusing Symptoms, Other Questions)
 
 - [Why Does My Glasses Number Keep Changing](./why-does-my-glasses-number-keep-changing.md)
 - [Why Do I See Glare and Halos](./why-do-i-see-glare-and-halos-around-lights.md)
@@ -175,6 +175,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
 - [Nutrition for Healthy eyes](nutrition-for-healthy-eyes.md)
 - [How to Put Eyedrops In correctly](how-to-put-eye-drops-in-correctly.md)
+- [What Happens On the Day of Eye Surgery](what-happens-on-the-day-of-eye-surgery.md)
 
 
 ## 🔴 Eye Injury & Emergency Symptoms (Act Early, Stay Calm)
