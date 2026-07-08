@@ -46,6 +46,7 @@ But the opposite can be true.
 **Watering can be a sign of dryness—not the absence of it.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
