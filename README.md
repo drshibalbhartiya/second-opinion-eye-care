@@ -204,6 +204,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 ## 🔵 Pediatric & Lazy Eye
 
+- [Children's Eye Examination](understanding-childrens-eye-examinations.md)
 - [Is It Ever Too Late to Treat Lazy Eye?](is-it-ever-too-late-to-treat-lazy-eye.md)
 - [Myopia Prevention and Control in children](myopia-prevention-and-control-in-children.md)
 
