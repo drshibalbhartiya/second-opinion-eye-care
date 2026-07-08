@@ -59,6 +59,7 @@ Using the wrong treatment can:
 **Not all irritation is the same—correct diagnosis matters.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
