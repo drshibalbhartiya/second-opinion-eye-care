@@ -1,5 +1,5 @@
 ---
-title: Artificial Tears: Choosing the Right Eye Drops
+title: Artificial Tears Guide
 description: A patient-friendly guide to artificial tears, including the different types of lubricating eye drops, preservatives, gels, ointments, how to choose the right product, and common mistakes to avoid.
 author: Dr Shibal Bhartiya
 last_updated: July 2026
