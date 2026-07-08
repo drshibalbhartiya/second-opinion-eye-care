@@ -159,7 +159,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [What LASIK Can and Cannot Fix](./what-lasik-can-and-cannot-fix.md)
 - [Why Vision May Feel Different After LASIK](./why-vision-may-feel-different-after-lasik.md)
 
-  ### ⚪ Cataract (Decision & Expectations)
+### ⚪ Cataract (Decision & Expectations)
 
 - [Understanding Cataracts](understanding-cataracts.md)
 - [When Do You Need Cataract Surgery](./when-do-you-need-cataract-surgery.md)
@@ -173,6 +173,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Why Are My Eyes Sensitive to Light](./why-do-my-eyes-feel-sensitive-to-light.md)
 - [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
 - [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
+- [Nutrition for Healthy eyes](nutrition-for-healthy-eyes.md)
 
 
 ## 🔴 Eye Injury & Emergency Symptoms (Act Early, Stay Calm)
