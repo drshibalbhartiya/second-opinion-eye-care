@@ -296,6 +296,7 @@ An unstable tear film can cause fluctuating or blurred vision.
 - [Dry Eye Is Not Just Irritation: Understanding a Chronic Disease](./dry-eye-not-just-irritation-chronic-disease.md)
 - [Why Do My Eyes Feel Tired Even When Tests Are Normal](./why-eyes-feel-tired-despite-normal-tests.md)
 - [Why Do My Eyes Burn When I Use Screens](./why-eyes-burn-with-screen-use.md)
+- [Understanding Severe Ocular Surface Diseases](understanding-severe-ocular-surface-diseases.md)
 
 ### 🟠 Dry Eye (Symptoms & Daily Experience)
 
