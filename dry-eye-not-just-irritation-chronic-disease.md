@@ -46,6 +46,7 @@ This leads to:
 **Dry eye is a chronic condition that needs ongoing care—not occasional drops.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
