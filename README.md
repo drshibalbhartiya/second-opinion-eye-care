@@ -25,6 +25,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 ### 🔴 Start Here 
 
+- [My Glaucoma Treatment Philosophy](./glaucoma-treatment-philosophy.md)
 - [Glaucoma Second Opinion in India](./glaucoma-second-opinion-india.md)
 - [When Should You Seek a Second Opinion for Glaucoma](./glaucoma-second-opinion-when-to-seek.md)
 - [Why Good Vision Is Not Always Safe Vision](./why-good-vision-is-not-safe-vision.md)
