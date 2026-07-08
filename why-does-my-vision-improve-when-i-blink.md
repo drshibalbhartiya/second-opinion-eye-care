@@ -44,6 +44,7 @@ Because:
 **Blinking improves vision because it restores the tear surface.**
 
 ---
+> 📖 **New to dry eye disease?** Start with our comprehensive guide: [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md).
 
 ## Learn more
 
