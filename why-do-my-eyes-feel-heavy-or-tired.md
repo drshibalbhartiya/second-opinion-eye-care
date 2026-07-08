@@ -46,3 +46,10 @@ Even when vision is “normal”:
 ## Learn more
 
 👉 https://drshibalbhartiya.com
+
+## Related Articles
+
+If you found this guide helpful, you may also be interested in these evidence-based resources on women's eye health:
+
+- [Hormone Replacement Therapy (HRT) and Eye Health](hormone-replacement-therapy-and-eye-health.md)
+- - [Menopause and Eye Health](menopause-and-eye-health.md)
