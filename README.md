@@ -102,6 +102,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 ### 🟠 Dry Eye, Digital Strain, & Visual Comfort
 
+- [Understanding Dry Eye Disease](understanding-dry-eye-disease.md)
 - [Why Does My Vision Fluctuate Throughout the Day](./dry-eye-why-vision-fluctuates-through-the-day.md)
 - [Dry Eye Is Not Just Irritation](./dry-eye-not-just-irritation-chronic-disease.md)
 - [Why Do My Eyes Feel Tired Even When Tests Are Normal](./why-eyes-feel-tired-despite-normal-tests.md)
