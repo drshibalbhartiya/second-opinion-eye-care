@@ -115,6 +115,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Why Does My Vision Improve When I Blink](./why-does-my-vision-improve-when-i-blink.md)
 - [Why Do My Eyes Feel Heavy or Tired](./why-do-my-eyes-feel-heavy-or-tired.md)
 - [How Do You Know If Dry Eye Treatment Is Working](./how-do-you-know-if-dry-eye-treatment-is-working.md)
+- [Artificial Tears: Choosing the Right Eye Drops](artificial-tears-guide.md)
 
 ---
 
