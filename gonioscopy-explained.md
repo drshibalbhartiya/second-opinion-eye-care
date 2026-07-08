@@ -1,5 +1,5 @@
 ---
-title: Gonioscopy Explained: Why Your Eye Doctor Examines the Drainage Angle
+title: Gonioscopy Explained
 description: A patient-friendly guide to gonioscopy, including what the drainage angle is, why the test is performed, what it can diagnose, and why it is one of the most important examinations in glaucoma care.
 author: Dr Shibal Bhartiya
 last_updated: July 2026
