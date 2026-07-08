@@ -160,6 +160,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
   ### ⚪ Cataract (Decision & Expectations)
 
+- [Understanding Cataracts](understanding-cataracts.md)
 - [When Do You Need Cataract Surgery](./when-do-you-need-cataract-surgery.md)
 - [Cataract Surgery: What to Expect](./cataract-surgery-what-to-expect.md)
 - [Why Vision Is Not Perfect After Cataract Surgery](./why-vision-is-not-perfect-after-cataract-surgery.md)
