@@ -52,6 +52,12 @@ Routine tests may still show:
 
 ---
 
-## Learn more
+---
 
-👉 https://drshibalbhartiya.com
+## Continue Reading
+
+📖 **New to dry eye disease?** Start with our comprehensive guide: **[Understanding Dry Eye Disease](./understanding-dry-eye-disease.md)**.
+
+🌐 **Learn more:** Visit **https://drshibalbhartiya.com** for evidence-based patient education on dry eye disease, glaucoma, cataracts, children's eye health, neuro-ophthalmology, eye nutrition, and more.
+
+---
