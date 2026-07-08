@@ -1,5 +1,5 @@
 ---
-title: Pachymetry Explained: Why Corneal Thickness Matters
+title: Pachymetry Explained
 description: A patient-friendly guide to pachymetry, corneal thickness, glaucoma risk, eye pressure interpretation, and why a thin or thick cornea does not necessarily mean you have glaucoma.
 author: Dr Shibal Bhartiya
 last_updated: July 2026
