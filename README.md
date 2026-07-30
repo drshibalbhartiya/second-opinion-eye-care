@@ -102,11 +102,21 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 ### ⚫ Clinical Insight (Questions That Shape My Practice)
 
+These essays reflect how I approach glaucoma in day-to-day clinical practice. They are not intended as guidelines, but as reflections on clinical reasoning, decision-making, and evidence-based patient care. Some of the most important questions in medicine do not always have simple answers. These essays explore the questions that continue to shape my clinical thinking.
+
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 - [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
 - [When Does Monitoring Become Delay?](./when-does-monitoring-become-delay.md)
 - [What Does Continuity Protect?](./what-does-continuity-protect.md)
 - [What Happens If We Do Nothing For 10 Years?](./what-happens-if-we-do-nothing-for-10-years.md)
+- [Why I Do Not Correct Intraocular Pressure for Central Corneal Thickness](./why-i-do-not-correct-iop-for-central-corneal-thickness.md)
+- [Why Establishing a True Baseline IOP Is the Foundation of Glaucoma Care](./why-establishing-a-true-baseline-iop-is-the-foundation-of-glaucoma-care.md)
+- [Why Target Intraocular Pressure Changes Over Time](./why-target-intraocular-pressure-changes-over-time.md)
+- [Why Progression Requires a Repeatable Visual Field Defect](./why-progression-requires-a-repeatable-visual-field-defect.md)
+- [The Economics of Glaucoma: Why the Cheapest Treatment Is Not Always the Least Expensive (Indian Perspective)](./the-economics-of-glaucoma-why-the-cheapest-treatment-is-not-always-the-least-expensive-indian-perspective.md)
+- [Why Advanced Glaucoma Is More About Falls Than Blindness](./why-advanced-glaucoma-is-more-about-falls-than-blindness.md)
+- [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
+- [What Does Continuity Protect?](./what-does-continuity-protect.md)
 
 ### 🧠 Beyond the Clinic (Understanding the System)
 
