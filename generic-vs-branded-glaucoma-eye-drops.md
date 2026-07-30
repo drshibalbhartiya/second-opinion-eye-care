@@ -58,3 +58,17 @@ The conversation should not be framed as *generic versus branded*.
 It should be framed as **which medication allows this individual patient to preserve vision safely, consistently, and sustainably over the course of a lifetime.**
 
 Good glaucoma care is built on continuity, careful monitoring, and shared decision-making—not labels on a bottle.
+---
+
+## Learn More
+
+For evidence-based patient education on glaucoma, dry eye disease, cataracts, neuro-ophthalmology, women's eye health, and other eye conditions, visit:
+
+**🌐 https://drshibalbhartiya.com**
+
+---
+
+**Dr Shibal Bhartiya**  
+*Glaucoma Specialist | Ophthalmologist | Researcher | Educator*
+
+> *"Looking after your own vision is not taking time away from the people you care for—it helps you continue caring for them for years to come."*
