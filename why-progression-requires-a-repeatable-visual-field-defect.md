@@ -62,3 +62,17 @@ So do visual fields.
 Before concluding that glaucoma has progressed, I want to see evidence that is consistent, repeatable, and supported by the rest of the clinical picture.
 
 Good glaucoma care is built on recognising trends—not reacting to single measurements.
+---
+
+## Learn More
+
+For evidence-based patient education on glaucoma, dry eye disease, cataracts, neuro-ophthalmology, women's eye health, and other eye conditions, visit:
+
+**🌐 https://drshibalbhartiya.com**
+
+---
+
+**Dr Shibal Bhartiya**  
+*Glaucoma Specialist | Ophthalmologist | Researcher | Educator*
+
+> *"Looking after your own vision is not taking time away from the people you care for—it helps you continue caring for them for years to come."*
