@@ -23,3 +23,17 @@ Across glaucoma and related conditions, structural and functional adaptation may
 The challenge is not simply detecting disease.
 
 It is recognising when patients are noticing something before our systems do.
+---
+
+## Learn More
+
+For evidence-based patient education on glaucoma, dry eye disease, cataracts, neuro-ophthalmology, women's eye health, and other eye conditions, visit:
+
+**🌐 https://drshibalbhartiya.com**
+
+---
+
+**Dr Shibal Bhartiya**  
+*Glaucoma Specialist | Ophthalmologist | Researcher | Educator*
+
+> *"Looking after your own vision is not taking time away from the people you care for—it helps you continue caring for them for years to come."*
