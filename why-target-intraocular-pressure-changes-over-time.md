@@ -102,3 +102,17 @@ As glaucoma changes, the target changes.
 Target IOP is therefore not something we discover once.
 
 It is something we continually redefine as we learn more about both the patient and the disease.
+---
+
+## Learn More
+
+For evidence-based patient education on glaucoma, dry eye disease, cataracts, neuro-ophthalmology, women's eye health, and other eye conditions, visit:
+
+**🌐 https://drshibalbhartiya.com**
+
+---
+
+**Dr Shibal Bhartiya**  
+*Glaucoma Specialist | Ophthalmologist | Researcher | Educator*
+
+> *"Looking after your own vision is not taking time away from the people you care for—it helps you continue caring for them for years to come."*
