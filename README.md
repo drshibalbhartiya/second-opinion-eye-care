@@ -100,7 +100,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Understanding Your Glasses Prescription](./understanding-your-glasses-prescription.md)
 - [Understanding Cataracts](./understanding-cataracts.md)
 
-### ⚫ Clinical Insight (Questions That Shape My Practice)
+### ⚫ Clinical Insights (Questions That Shape My Practice)
 
 These essays reflect how I approach glaucoma in day-to-day clinical practice. They are not intended as guidelines, but as reflections on clinical reasoning, decision-making, and evidence-based patient care. Some of the most important questions in medicine do not always have simple answers. These essays explore the questions that continue to shape my clinical thinking.
 
