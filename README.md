@@ -115,8 +115,7 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 - [Why Progression Requires a Repeatable Visual Field Defect](./why-progression-requires-a-repeatable-visual-field-defect.md)
 - [The Economics of Glaucoma: Why the Cheapest Treatment Is Not Always the Least Expensive (Indian Perspective)](./the-economics-of-glaucoma-why-the-cheapest-treatment-is-not-always-the-least-expensive-indian-perspective.md)
 - [Why Advanced Glaucoma Is More About Falls Than Blindness](./why-advanced-glaucoma-is-more-about-falls-than-blindness.md)
-- [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
-- [What Does Continuity Protect?](./what-does-continuity-protect.md)
+
 
 ### 🧠 Beyond the Clinic (Understanding the System)
 
