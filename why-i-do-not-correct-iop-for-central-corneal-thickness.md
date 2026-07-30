@@ -69,3 +69,17 @@ I prefer to ask,
 > "What does this corneal thickness tell me about this patient's long-term risk, and how should that influence my target pressure, follow-up, and treatment strategy?"
 
 That question is both more clinically useful and more faithful to the available evidence.
+---
+
+## Learn More
+
+For evidence-based patient education on glaucoma, dry eye disease, cataracts, neuro-ophthalmology, women's eye health, and other eye conditions, visit:
+
+**🌐 https://drshibalbhartiya.com**
+
+---
+
+**Dr Shibal Bhartiya**  
+*Glaucoma Specialist | Ophthalmologist | Researcher | Educator*
+
+> *"Looking after your own vision is not taking time away from the people you care for—it helps you continue caring for them for years to come."*
