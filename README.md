@@ -104,6 +104,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 These essays reflect how I approach glaucoma in day-to-day clinical practice. They are not intended as guidelines, but as reflections on clinical reasoning, decision-making, and evidence-based patient care. Some of the most important questions in medicine do not always have simple answers. These essays explore the questions that continue to shape my clinical thinking.
 
+- [The L.I.F.T.S.™ Glaucoma Second Opinion Framework](The%20LIFTS%20Glaucoma%20Second%20Opinion%20Framework.md)
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 - [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
 - [When Does Monitoring Become Delay?](./when-does-monitoring-become-delay.md)
@@ -125,6 +126,7 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 
 ### 🟠 Dry Eye, Digital Strain, & Visual Comfort
 
+- [The C.L.E.A.R.™ Dry Eye Second Opinion Framework](The%20CLEAR%20Dry%20Eye%20Second%20Opinion%20Framework.md)
 - [Understanding Dry Eye Disease](understanding-dry-eye-disease.md)
 - [Why Does My Vision Fluctuate Throughout the Day](./dry-eye-why-vision-fluctuates-through-the-day.md)
 - [Dry Eye Is Not Just Irritation](./dry-eye-not-just-irritation-chronic-disease.md)
