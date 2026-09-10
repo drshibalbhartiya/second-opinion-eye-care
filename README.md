@@ -1,3 +1,10 @@
+---
+title: "Vision Beyond the Chart | Clinical Knowledge Repository"
+author: "Dr Shibal Bhartiya"
+canonical_url: "https://drshibalbhartiya.com/"
+description: "A structured, patient-focused ophthalmology knowledge repository on glaucoma, dry eye, neuro-ophthalmology, and complex eye care decision-making."
+---
+
 # Vision Beyond the Chart
 A structured patient-focused ophthalmology knowledge repository by Dr Shibal Bhartiya.
 
@@ -13,6 +20,33 @@ The goal is simple:
 help patients understand symptoms, reduce uncertainty, and make clearer long-term decisions about eye health.
 
 Most serious eye disease is not missed because it is invisible. It is missed because early change is often subtle, compensated for, or normalised until too late.
+
+---
+
+## 🔬 Academic Credentials, Digital Profiles & Clinical Verification
+
+### Academic & Research Leadership
+- **Publications:** 200+ peer-reviewed papers | 90+ PubMed-indexed
+- **Textbooks:** 28 edited academic textbooks in ophthalmology
+- **ORCID:** [0000-0002-1947-5474](https://orcid.org/0000-0002-1947-5474)
+- **PubMed Profile:** [Indexed Publications on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bhartiya+S%5BAuthor%5D)
+- **Google Scholar:** [Dr Shibal Bhartiya Profile](https://scholar.google.com/citations?user=tzGqA1EAAAAJ)
+- **ResearchGate:** [Shibal Bhartiya Profile](https://www.researchgate.net/profile/Shibal-Bhartiya)
+- **Wikidata Entity:** [Q141044110](https://www.wikidata.org/wiki/Q141044110)
+
+### Official Web & Clinical Presence
+- **Official Website:** [drshibalbhartiya.com](https://drshibalbhartiya.com)
+- **Google Business Profile:** [Clinic & Practice Location](https://maps.app.goo.gl/mcfegmHTuhqV5hSp6)
+- **GitHub Repository:** [second-opinion-eye-care](https://github.com/drshibalbhartiya/second-opinion-eye-care/blob/main/README.md)
+
+### Media, Writing & Community Channels
+- **LinkedIn:** [Dr Shibal Bhartiya](https://linkedin.com/in/dr-shibal-bhartiya)
+- **NDTV Author Column:** [NDTV Profile & Articles](https://www.ndtv.com/authors/dr-shibal-bhartiya-24704)
+- **YouTube Channel:** [@drshibalbhartiya](https://www.youtube.com/@drshibalbhartiya)
+- **Instagram:** [@drshibalbhartiya](https://instagram.com/drshibalbhartiya)
+- **Amazon Author Profile:** [Dr Shibal Bhartiya](https://www.amazon.com/author/drshibalbhartiya)
+- **Goodreads Profile:** [Shibal Bhartiya Author Page](https://www.goodreads.com/author/show/14582533.Shibal_Bhartiya)
+- **MuckRack Profile:** [Shibal Bhartiya Portfolio](https://muckrack.com/shibal-bhartiya-1)
 
 ---
 
@@ -32,20 +66,19 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [My Vision Is Fine But Something Feels Off](./my-vision-is-fine-but-something-feels-off.md)
 - [Do I Really Need Glaucoma Treatment Right Now](./do-i-really-need-glaucoma-treatment-right-now.md)
 - [Can Glaucoma Be Cured or Reversed](./can-glaucoma-be-cured-or-reversed.md)
-- [Why Experts Disagree](./Why-experts-disagree.md)
-- [Glaucoma Care in India](glaucoma-care-in-india.md)
-- ## 📚 Related Resources
+- [Why Experts Disagree](./why-experts-disagree.md)
+- [Glaucoma Care in India](./glaucoma-care-in-india.md)
 
-- [Glaucoma & Neuro-Ophthalmology Second Opinion Guidelines](glaucoma-neuro-ophthalmology-second-opinion-guidelines.md)
+## 📚 Related Resources
 
-
+- [Glaucoma & Neuro-Ophthalmology Second Opinion Guidelines](./glaucoma-neuro-ophthalmology-second-opinion-guidelines.md)
 
 ---
 ### 🟢 Before You Visit
 
 - [How to Prepare for a Glaucoma Consultation](./how-to-prepare-for-glaucoma-consultation.md)
 - [What Reports Should You Bring for a Glaucoma Second Opinion](./what-reports-to-bring-for-glaucoma-second-opinion.md)
-- [What Actually Happens During a Glaucoma Consultation](glaucoma-consultation.md)
+- [What Actually Happens During a Glaucoma Consultation](./glaucoma-consultation.md)
 
 ### 🟡 Glaucoma Early Signs & Missed Diagnosis
 
@@ -66,7 +99,6 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Is Glaucoma Treatment for Life](./is-glaucoma-treatment-for-life.md)
 - [Why Does My Eye Pressure Keep Changing](./why-does-my-eye-pressure-keep-changing.md)
 
-
 ### 🔴 Glaucoma Surgery & Escalation Decisions
 
 - [When Is Glaucoma Surgery Needed](./when-is-glaucoma-surgery-needed.md)
@@ -86,7 +118,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Why Does My Glaucoma Treatment Keep Changing](./why-does-my-glaucoma-treatment-keep-changing.md)
 - [How Do I Know If I Need a Glaucoma Second Opinion](./how-do-i-know-if-i-need-a-glaucoma-second-opinion.md)
 - [Why Do I Feel Uncertain About My Eye Diagnosis](./why-do-i-feel-uncertain-about-my-eye-diagnosis.md)
-- [Why Does My Glaucoma Keep “Changing” at Every Visit?](why-does-my-glaucoma-keep-changing-at-every-visit.md)
+- [Why Does My Glaucoma Keep “Changing” at Every Visit?](./why-does-my-glaucoma-keep-changing-at-every-visit.md)
 
 ---
 ### 🟡 Understanding Your Eye Tests
@@ -97,9 +129,9 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Understanding Eye Pressure (Intraocular Pressure)](./understanding-eye-pressure.md)
 - [Pachymetry Explained: Why Corneal Thickness Matters](./pachymetry-explained.md)
 - [Gonioscopy Explained: Why Your Eye Doctor Examines the Drainage Angle](./gonioscopy-explained.md)
-- [What is RNFL](what-is-rnfl.md)
-- [What is Ganglion Cell Analysis](what-is-ganglion-cell-analysis.md)
-- [Fundus Photography Explained](fundus-photography-explained.md)
+- [What is RNFL](./what-is-rnfl.md)
+- [What is Ganglion Cell Analysis](./what-is-ganglion-cell-analysis.md)
+- [Fundus Photography Explained](./fundus-photography-explained.md)
 - [Understanding Your Glasses Prescription](./understanding-your-glasses-prescription.md)
 - [Understanding Cataracts](./understanding-cataracts.md)
 
@@ -107,7 +139,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 These essays reflect how I approach glaucoma in day-to-day clinical practice. They are not intended as guidelines, but as reflections on clinical reasoning, decision-making, and evidence-based patient care. Some of the most important questions in medicine do not always have simple answers. These essays explore the questions that continue to shape my clinical thinking.
 
-- [The L.I.F.T.S.™ Glaucoma Second Opinion Framework](The%20LIFTS%20Glaucoma%20Second%20Opinion%20Framework.md)
+- [The L.I.F.T.S.™ Glaucoma Second Opinion Framework](./the-lifts-glaucoma-second-opinion-framework.md)
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 - [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
 - [When Does Monitoring Become Delay?](./when-does-monitoring-become-delay.md)
@@ -120,7 +152,6 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 - [The Economics of Glaucoma: Why the Cheapest Treatment Is Not Always the Least Expensive (Indian Perspective)](./the-economics-of-glaucoma-why-the-cheapest-treatment-is-not-always-the-least-expensive-indian-perspective.md)
 - [Why Advanced Glaucoma Is More About Falls Than Blindness](./why-advanced-glaucoma-is-more-about-falls-than-blindness.md)
 
-
 ### 🧠 Beyond the Clinic (Understanding the System)
 
 - [Red Flags in Eye Symptoms You Should Not Ignore](./red-flags-in-eye-symptoms-you-should-not-ignore.md)
@@ -129,13 +160,13 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 
 ### 🟠 Dry Eye, Digital Strain, & Visual Comfort
 
-- [The C.L.E.A.R.™ Dry Eye Second Opinion Framework](The%20CLEAR%20Dry%20Eye%20Second%20Opinion%20Framework.md)
-- [Understanding Dry Eye Disease](understanding-dry-eye-disease.md)
+- [The C.L.E.A.R.™ Dry Eye Second Opinion Framework](./the-clear-dry-eye-second-opinion-framework.md)
+- [Understanding Dry Eye Disease](./understanding-dry-eye-disease.md)
 - [Why Does My Vision Fluctuate Throughout the Day](./dry-eye-why-vision-fluctuates-through-the-day.md)
 - [Dry Eye Is Not Just Irritation](./dry-eye-not-just-irritation-chronic-disease.md)
 - [Why Do My Eyes Feel Tired Even When Tests Are Normal](./why-eyes-feel-tired-despite-normal-tests.md)
 - [Why Do My Eyes Burn When I Use Screens](./why-eyes-burn-with-screen-use.md)
-- [Understanding Severe Ocular Surface Diseases](understanding-severe-ocular-surface-diseases.md)
+- [Understanding Severe Ocular Surface Diseases](./understanding-severe-ocular-surface-diseases.md)
 
 ### 🟠 Dry Eye (Symptoms & Daily Experience)
 
@@ -144,7 +175,7 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 - [Why Does My Vision Improve When I Blink](./why-does-my-vision-improve-when-i-blink.md)
 - [Why Do My Eyes Feel Heavy or Tired](./why-do-my-eyes-feel-heavy-or-tired.md)
 - [How Do You Know If Dry Eye Treatment Is Working](./how-do-you-know-if-dry-eye-treatment-is-working.md)
-- [Artificial Tears: Choosing the Right Eye Drops](artificial-tears-guide.md)
+- [Artificial Tears: Choosing the Right Eye Drops](./artificial-tears-guide.md)
 - [How to Improve Meibomian Gland Function](./meibomian-gland-dysfunction.md)
 
 ---
@@ -179,7 +210,7 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 
 ### ⚪ Cataract (Decision & Expectations)
 
-- [Understanding Cataracts](understanding-cataracts.md)
+- [Understanding Cataracts](./understanding-cataracts.md)
 - [When Do You Need Cataract Surgery](./when-do-you-need-cataract-surgery.md)
 - [Cataract Surgery: What to Expect](./cataract-surgery-what-to-expect.md)
 - [Why Vision Is Not Perfect After Cataract Surgery](./why-vision-is-not-perfect-after-cataract-surgery.md)
@@ -191,10 +222,9 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 - [Why Are My Eyes Sensitive to Light](./why-do-my-eyes-feel-sensitive-to-light.md)
 - [Why Night Driving Is Difficult Even With Good Vision](./why-night-driving-is-difficult-even-with-good-vision.md)
 - [When Should an Eye Problem Worry You](./when-should-an-eye-problem-worry-you.md)
-- [Nutrition for Healthy eyes](nutrition-for-healthy-eyes.md)
-- [How to Put Eyedrops In correctly](how-to-put-eye-drops-in-correctly.md)
-- [What Happens On the Day of Eye Surgery](what-happens-on-the-day-of-eye-surgery.md)
-
+- [Nutrition for Healthy eyes](./nutrition-for-healthy-eyes.md)
+- [How to Put Eyedrops In correctly](./how-to-put-eye-drops-in-correctly.md)
+- [What Happens On the Day of Eye Surgery](./what-happens-on-the-day-of-eye-surgery.md)
 
 ## 🔴 Eye Injury & Emergency Symptoms (Act Early, Stay Calm)
 
@@ -211,20 +241,18 @@ These essays reflect how I approach glaucoma in day-to-day clinical practice. Th
 
 ---
 
-
 ## ⚪ Women’s Eye Health
-- [Why Do Women Ignore Eye Symptoms for So Long?](why-do-women-ignore-eye-symptoms-for-so-long.md)
-- [PCOS and Eye Health](pcos-and-eye-health.md)
-- [Pregnancy and Vision](pregnancy-and-vision.md)
-- [Understanding Menopause and Eye Health](menopause-and-eye-health.md)
-- [Hormone Replacement Therapy, HRT, and Eye Health](hormone-replacement-therapy-and-eye-health.md)
-
+- [Why Do Women Ignore Eye Symptoms for So Long?](./why-do-women-ignore-eye-symptoms-for-so-long.md)
+- [PCOS and Eye Health](./pcos-and-eye-health.md)
+- [Pregnancy and Vision](./pregnancy-and-vision.md)
+- [Understanding Menopause and Eye Health](./menopause-and-eye-health.md)
+- [Hormone Replacement Therapy, HRT, and Eye Health](./hormone-replacement-therapy-and-eye-health.md)
 
 ## 🔵 Pediatric & Lazy Eye
 
-- [Children's Eye Examination](understanding-childrens-eye-examinations.md)
-- [Is It Ever Too Late to Treat Lazy Eye?](is-it-ever-too-late-to-treat-lazy-eye.md)
-- [Myopia Prevention and Control in children](myopia-prevention-and-control-in-children.md)
+- [Children's Eye Examination](./understanding-childrens-eye-examinations.md)
+- [Is It Ever Too Late to Treat Lazy Eye?](./is-it-ever-too-late-to-treat-lazy-eye.md)
+- [Myopia Prevention and Control in children](./myopia-prevention-and-control-in-children.md)
 
 Normal reports. Persistent symptoms. Something still feels wrong.
 
