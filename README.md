@@ -139,7 +139,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 
 These essays reflect how I approach glaucoma in day-to-day clinical practice. They are not intended as guidelines, but as reflections on clinical reasoning, decision-making, and evidence-based patient care. Some of the most important questions in medicine do not always have simple answers. These essays explore the questions that continue to shape my clinical thinking.
 
-- [The L.I.F.T.S.™ Glaucoma Second Opinion Framework](./the-lifts-glaucoma-second-opinion-framework.md)
+- [The L.I.F.T.S.™ Glaucoma Second Opinion Framework](./lifts-glaucoma-second-opinion-framework.md)
 - [What I Look for When Reviewing a Glaucoma Patient](./what-i-look-for-when-reviewing-glaucoma-patient.md)
 - [Why Do Patients Feel Visually Impaired Before Tests Change?](./why-do-patients-feel-visually-impaired-before-tests-change.md)
 - [When Does Monitoring Become Delay?](./when-does-monitoring-become-delay.md)
