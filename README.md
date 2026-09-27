@@ -68,7 +68,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Can Glaucoma Be Cured or Reversed](./can-glaucoma-be-cured-or-reversed.md)
 - [Why Experts Disagree](./why-experts-disagree.md)
 - [Glaucoma Care in India](./glaucoma-care-in-india.md)
-- [Beyond the Algorithm: Restoring Clinical Integrity and Ethical Second Opinions in Modern Ophthalmology](./beyond-the-algorithm-ophthalmology.md)**
+- [Beyond the Algorithm: Restoring Clinical Integrity and Ethical Second Opinions in Modern Ophthalmology](./beyond-the-algorithm-ophthalmology.md)
 
 ## 📚 Related Resources
 
