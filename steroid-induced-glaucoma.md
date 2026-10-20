@@ -1,8 +1,8 @@
 ---
-author: Dr Shibal Bhartiya
-canonical_url: "https://drshibalbhartiya.com/"
-description: Steroid-induced glaucoma can develop when corticosteroids
-raise eye pressure and damage the optic nerve. Learn about risk
+title: "Steroid-Induced Glaucoma: When Steroid Treatment Raises Eye Pressure"
+author: "Dr Shibal Bhartiya"
+description: "Steroid-induced glaucoma can develop when corticosteroids raise eye pressure and damage the optic nerve."
+--- Learn about risk
 factors, symptoms, testing, treatment, and prevention.
 title: "Steroid-Induced Glaucoma: When Treatment Can Raise Eye Pressure"
 Steroid-Induced Glaucoma: When Treatment Can Raise Eye Pressure
