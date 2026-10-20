@@ -94,6 +94,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Is Glaucoma Hereditary](./is-glaucoma-hereditary.md)
 - [Steroid-Induced Glaucoma: When Steroid Treatment Raises Eye Pressure](./steroid-induced-glaucoma.md)
 - [Uveitis and Raised Eye Pressure: Why Can Eye Inflammation Cause Glaucoma?](./uveitis-and-raised-eye-pressure.md)
+- [Myopia as an Adult Glaucoma Risk Factor: What Should You Know?](./myopia-as-an-adult-glaucoma-risk-factor.md)
 ---
 
 ### 🔵 Glaucoma Treatment & Patient Concerns
