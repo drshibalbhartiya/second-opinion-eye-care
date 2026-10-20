@@ -121,6 +121,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [How Do I Know If I Need a Glaucoma Second Opinion](./how-do-i-know-if-i-need-a-glaucoma-second-opinion.md)
 - [Why Do I Feel Uncertain About My Eye Diagnosis](./why-do-i-feel-uncertain-about-my-eye-diagnosis.md)
 - [Why Does My Glaucoma Keep “Changing” at Every Visit?](./why-does-my-glaucoma-keep-changing-at-every-visit.md)
+- [Glaucoma, Sleep Apnea and CPAP: What Is the Connection?](glaucoma-sleep-apnea-cpap.md)
 
 ---
 ### 🟡 Understanding Your Eye Tests
