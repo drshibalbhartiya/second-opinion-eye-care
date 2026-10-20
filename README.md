@@ -92,7 +92,7 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [What Is Target Eye Pressure in Glaucoma](./what-is-target-eye-pressure-in-glaucoma.md)
 - [What Tests Are Needed for Glaucoma](./what-tests-are-needed-for-glaucoma.md)
 - [Is Glaucoma Hereditary](./is-glaucoma-hereditary.md)
-- [Steroid-Induced Glaucoma: When Steroid Treatment Raises Eye Pressure](steroid-induced-glaucoma.md)
+- [Steroid-Induced Glaucoma: When Steroid Treatment Raises Eye Pressure](./steroid-induced-glaucoma.md)
 ---
 
 ### 🔵 Glaucoma Treatment & Patient Concerns
