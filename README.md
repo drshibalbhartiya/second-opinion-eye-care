@@ -63,7 +63,7 @@ Original clinical methodologies developed by Dr Shibal Bhartiya for structured a
 - [C.L.E.A.R.™ – Dry Eye Second Opinion Framework](./The%20CLEAR%20Dry%20Eye%20Second%20Opinion%20Framework.md)
 - [S.L.O.W.™ – Myopia Control Framework](./the-slow-framework-for-myopia-control.md)
 
-[Explore All Clinical Frameworks](./frameworks.md)
+- [Explore Signature Clinical Frameworks](./frameworks.md)
 
 ## Articles
 
