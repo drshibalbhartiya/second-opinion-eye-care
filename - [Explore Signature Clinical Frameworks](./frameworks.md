@@ -1,23 +1,22 @@
 
+
 # Signature Clinical Frameworks by Dr Shibal Bhartiya
 
-Clinical frameworks developed by Dr Shibal Bhartiya to bring structure, consistency and individualised decision-making to the diagnosis and management of complex eye conditions.
+Original clinical methodologies developed by Dr Shibal Bhartiya for structured assessment, personalised treatment and long-term vision preservation.
 
-These frameworks integrate clinical assessment, diagnostic investigations, risk profiling and evidence-based treatment strategies. Each provides a structured approach to patient care while recognising that treatment must always be individualised.
+These frameworks integrate clinical assessment, diagnostic investigations, risk profiling and evidence-based treatment strategies.
 
 ## 1. L.I.F.T.S.™ – Glaucoma Second Opinion Framework
 
 A structured approach to reviewing glaucoma diagnoses, evaluating disease progression and developing individualised management strategies.
 
-L.I.F.T.S. brings together:
+The five steps are:
 
-- Longitudinal Records
-- Independent Diagnosis
-- Functional Progression
-- Target IOP
-- Sustainable Management
-
-The framework emphasises the importance of understanding the patient's clinical history, reassessing the diagnosis, evaluating structural and functional progression, establishing an appropriate target pressure and developing a sustainable long-term treatment plan.
+- Longitudinal Record Integration
+- Independent Diagnostic Re-Evaluation
+- Functional Rate-of-Progression Analysis
+- Target IOP and Lifetime Risk Profiling
+- Proportional and Sustainable Management Planning
 
 [Read the L.I.F.T.S.™ Glaucoma Second Opinion Framework](./lifts-glaucoma-second-opinion-framework.md)
 
@@ -25,7 +24,7 @@ The framework emphasises the importance of understanding the patient's clinical 
 
 A structured approach to understanding the underlying causes of dry eye disease rather than treating symptoms in isolation.
 
-C.L.E.A.R. brings together:
+The five steps are:
 
 - Comprehensive Aetiology
 - Lipid and Gland Mapping
@@ -33,28 +32,24 @@ C.L.E.A.R. brings together:
 - Advanced Inflammation Profiling
 - Root-Cause Rehabilitation
 
-The framework recognises that dry eye is a multifactorial disease involving tear-film instability, meibomian gland dysfunction, ocular surface inflammation and systemic and environmental contributors.
-
 [Read the C.L.E.A.R.™ Dry Eye Second Opinion Framework](./The%20CLEAR%20Dry%20Eye%20Second%20Opinion%20Framework.md)
 
 ## 3. S.L.O.W.™ – Paediatric Myopia Control Framework
 
 A structured approach to assessing childhood myopia, identifying progression risk and developing individualised strategies to slow axial elongation.
 
-S.L.O.W. brings together:
+The four steps are:
 
 - Structural Baseline Mapping
 - Lifetime Risk and Ethnicity Profiling
 - Optical Intervention Design
 - Wet and World Shield
 
-The framework integrates cycloplegic refraction, axial length monitoring, individual risk assessment, specialised optical interventions, low-dose atropine where appropriate and environmental management.
-
 [Read the S.L.O.W.™ Myopia Control Framework](./the-slow-framework-for-myopia-control.md)
 
 ---
 
-## A Common Philosophy
+## A Common Clinical Philosophy
 
 Although these frameworks address different clinical conditions, they share a common philosophy:
 
@@ -71,6 +66,7 @@ The objective is to make complex clinical decisions more structured, transparent
 
 **Dr Shibal Bhartiya**
 
-Ophthalmologist | Glaucoma Specialist | Clinical Researcher
+Ophthalmologist | Glaucoma Specialist | Research Scientist
 
-[Website](https://drshibalbhartiya.com/)
+[Official Website](https://drshibalbhartiya.com/)
+
