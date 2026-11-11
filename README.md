@@ -55,6 +55,16 @@ Most serious eye disease is not missed because it is invisible. It is missed bec
 - [Selected Work in Glaucoma](./selected-work-glaucoma.md)
 
 ---
+## 🧠 Signature Clinical Frameworks
+
+Original clinical methodologies developed by Dr Shibal Bhartiya for structured assessment, personalised treatment and long-term vision preservation.
+
+- [L.I.F.T.S.™ – Glaucoma Second Opinion Framework](./lifts-glaucoma-second-opinion-framework.md)
+- [C.L.E.A.R.™ – Dry Eye Second Opinion Framework](./clear-dry-eye-second-opinion-framework.md)
+- [S.L.O.W.™ – Myopia Control Framework](./the-slow-framework-for-myopia-control.md)
+
+[Explore All Clinical Frameworks](./frameworks.md)
+
 ## Articles
 
 ### 🔴 Start Here 
