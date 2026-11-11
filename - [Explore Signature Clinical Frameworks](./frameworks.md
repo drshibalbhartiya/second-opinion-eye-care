@@ -25,7 +25,7 @@ L.I.F.T.S.™ brings together longitudinal clinical information, independent dia
 - **Target IOP and Lifetime Risk Profiling** – Establishing an individualised target intraocular pressure based on disease severity, progression and lifetime risk.
 - **Proportional and Sustainable Management Planning** – Developing a treatment strategy that balances disease control, treatment burden, safety and long-term adherence.
 
-[Read the L.I.F.T.S.™ Glaucoma Second Opinion Framework](./The%20LIFTS%20Glaucoma%20Second%20Opinion%20Framework.md)
+[Read the L.I.F.T.S.™ Glaucoma Second Opinion Framework](https://github.com/drshibalbhartiya/second-opinion-eye-care/blob/main/The%20LIFTS%20Glaucoma%20Second%20Opinion%20Framework.md)
 
 ---
 
@@ -45,7 +45,7 @@ C.L.E.A.R.™ encourages a systematic assessment of tear film function, glandula
 - **Advanced Inflammation Profiling** – Evaluating the role of ocular surface inflammation and identifying patients who may need targeted anti-inflammatory treatment.
 - **Root-Cause Rehabilitation** – Developing a personalised plan to address underlying mechanisms, restore ocular surface health and maintain long-term improvement.
 
-[Read the C.L.E.A.R.™ Dry Eye Second Opinion Framework](./The%20CLEAR%20Dry%20Eye%20Second%20Opinion%20Framework.md)
+[Read the C.L.E.A.R.™ Dry Eye Second Opinion Framework](https://github.com/drshibalbhartiya/second-opinion-eye-care/blob/main/The%20CLEAR%20Dry%20Eye%20Second%20Opinion%20Framework.md)
 
 ---
 
@@ -64,7 +64,7 @@ S.L.O.W.™ provides a systematic approach to baseline assessment, risk stratifi
 - **Optical Intervention Design** – Selecting appropriate myopia-control optical strategies based on the child's clinical profile and treatment needs.
 - **Wet and World Shield** – Integrating pharmacological approaches where indicated with environmental measures, including outdoor time and healthier visual habits.
 
-[Read the S.L.O.W.™ Myopia Control Framework](./the-slow-framework-for-myopia-control.md)
+[Read the S.L.O.W.™ Myopia Control Framework](https://github.com/drshibalbhartiya/second-opinion-eye-care/blob/main/the-slow-framework-for-myopia-control.md)
 
 ---
 
